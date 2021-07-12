@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+}
+#Gallery{
+    padding-bottom: 30px;
+}
+/*.Enquiry{
+   border: 2px solid red;
+   
+   
+   height: 270px;
+   margin-left: 50px;
+   left: 32%;
+   position: absolute;
+   text-align: center;
+   background-color: whitesmoke;
+   padding-bottom: 20px;
+   margin-bottom: 50px;
+   
+}*/
+#id{
+
+    left: 50%;
+    align:center;
+
+}
+.container{
+    background-color: tomato;
+    left: 60%;
+}
+.overview{
+    background-color: grey;
+}
+.floor{
+    background-color: hotpink;
+}
